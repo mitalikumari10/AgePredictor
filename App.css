@@ -1,0 +1,43 @@
+body{
+background-color: bisque;
+    
+}
+.App h1
+{
+    margin-top: -480px;
+    margin-left:500px;
+}
+.App img
+{
+    margin-top:100px;
+}
+.App input
+{
+    width:500px;
+    height:30px;
+    margin-top:30px;
+    margin-left:650px;
+    font-size: large;
+}
+.App button
+{
+    display: flex;
+    margin-top: 50px;
+    margin-left:650px;
+    width:510px;
+    height:30px;
+    font-size: larger;
+    display: inline-block;
+}
+
+.displaydata
+{
+    margin-left:650px;
+    margin-top:50px;
+    border: 2px solid #9899A0;
+    background-color:#E1E3E5;
+    width:500px;
+    height:90px;
+    padding:5px 10px;
+
+}
